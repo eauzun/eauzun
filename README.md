@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/emiraliuzun0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emiraliuzun0" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/emiraliuzun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="emiraliuzun" height="30" width="40" /></a>
 <a href="https://instagram.com/emiraliuzn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emiraliuzn" height="30" width="40" /></a>
 </p>
 
