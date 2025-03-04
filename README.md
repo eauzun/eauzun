@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/eauzun](https://github.com/eauzun)
 
-- 💬 Ask me about **any Shell, C or python issue**
+- 💬 Ask me about **any Linux, Shell, C or Python issue**
 
 - 📫 How to reach me **eauzun@proton.me**
 
